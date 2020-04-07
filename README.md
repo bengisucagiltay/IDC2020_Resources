@@ -1,6 +1,6 @@
 # IDC2020_Resources
 
-This repository contains the resources used in the Participatory Design sessions presented in the publication "Robot, My Trusting Companion: Investigating Family Perceptions and Design Preferences for an In-Home Robot"
+This repository contains the resources used in the Participatory Design sessions presented in the publication "Investigating Family Perceptions and Design Preferences for an In-Home Robot"
 
 **Reference:**
 
