@@ -2,7 +2,6 @@
 
 This repository contains the resources used in the Participatory Design sessions presented in the publication "Investigating Family Perceptions and Design Preferences for an In-Home Robot"
 
-**Reference:**
 
 
 **STL_misty3D.stl** contains the 3D model of the Misty minifigure used.
